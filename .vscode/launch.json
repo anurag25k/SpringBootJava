@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmProjectApplication",
+            "request": "launch",
+            "mainClass": "com.crud.emproject.EmProjectApplication",
+            "projectName": "em-project"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-DemoApplication<demo>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
